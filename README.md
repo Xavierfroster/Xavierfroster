@@ -5,11 +5,6 @@
       <stop offset="0%" stop-color="#0a0a0f"></stop>
       <stop offset="100%" stop-color="#1a0033"></stop>
     </linearGradient>
-
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.3"></stop>
-      <stop offset="100%" stop-color="transparent"></stop>
-    </radialGradient>
   </defs>
 
   <!-- Background -->
