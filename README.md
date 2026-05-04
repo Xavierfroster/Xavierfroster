@@ -1,5 +1,5 @@
 <img width="1280" height="640" alt="github banner" src="https://github.com/user-attachments/assets/a75f8d31-c57e-4530-82e8-31773aa09c28" />
-![Up<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0a0a0f"></stop>
