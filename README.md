@@ -19,23 +19,6 @@
     <path d="M200 0 V640 M400 0 V640 M600 0 V640 M800 0 V640 M1000 0 V640"></path>
   </g>
 
-  <!-- Main Text -->
-  <text x="80" y="260" fill="#ffffff" font-size="60" font-family="Arial, sans-serif" font-weight="bold">
-    Xavier Froster
-  </text>
-
-  <text x="80" y="320" fill="#00f0ff" font-size="28" font-family="Arial, sans-serif">
-    Full Stack Developer • System Designer • Cinematic Creator
-  </text>
-
-  <text x="80" y="380" fill="#cccccc" font-size="22" font-family="Arial, sans-serif">
-    Building scalable systems &amp; visual experiences
-  </text>
-
-  <!-- Accent line -->
-  <rect x="80" y="410" width="300" height="4" fill="#00f0ff"></rect>
-</svg>loading github banner.svg…]()
-
 
 
 
