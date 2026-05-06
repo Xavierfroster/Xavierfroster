@@ -39,7 +39,7 @@ Focused on clean architecture, performance, and real-world problem solving.
 ---
 
 ## 🤝 Connect
-- 📧 Email: [your-linkedin](kd61413@gmail.com)
+- 📧 Email: [your-email](kd61413@gmail.com)
 - 💼 LinkedIn: [your-linkedin](https://in.linkedin.com/in/kumardhawale)  
 - 📸 Portfolio: [your-portfolio](https://kumardhawale.vercel.app/)  
 
