@@ -34,7 +34,7 @@ Focused on clean architecture, performance, and real-world problem solving.
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Xavierfroster&show_icons=true&theme=tokyonight)
+![Stats](https://kumardhawale.vercel.app/api?username=Xavierfroster&show_icons=true&theme=tokyonight)
 
 ---
 
