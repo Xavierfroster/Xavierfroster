@@ -1,25 +1,5 @@
-<img width="1280" height="640" alt="github banner" src="https://github.com/user-attachments/assets/a75f8d31-c57e-4530-82e8-31773aa09c28" />
-<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0a0f"></stop>
-      <stop offset="100%" stop-color="#1a0033"></stop>
-    </linearGradient>
-  </defs>
 
-  <!-- Background -->
-  <rect width="1280" height="640" fill="url(#bg)"></rect>
-
-  <!-- Glow effect -->
-  <circle cx="1000" cy="200" r="300" fill="url(#glow)"></circle>
-
-  <!-- Grid -->
-  <g stroke="#ffffff10">
-    <path d="M0 100 H1280 M0 200 H1280 M0 300 H1280 M0 400 H1280 M0 500 H1280"></path>
-    <path d="M200 0 V640 M400 0 V640 M600 0 V640 M800 0 V640 M1000 0 V640"></path>
-  </g>
-
-
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/7ebf66de-e095-4ad4-9393-657a0eb266ec" />
 
 
 # 👋 Hi, I'm Xavier
