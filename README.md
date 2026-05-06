@@ -34,7 +34,7 @@ Focused on clean architecture, performance, and real-world problem solving.
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://my-portfolio-b04hc9ld0-kumar-dhawales-projects.vercel.app/api?username=Xavierfroster&show_icons=true&theme=tokyonight)
+![Stats](https://my-portfolio-git-main-kumar-dhawales-projects.vercel.app/api?username=Xavierfroster&show_icons=true&theme=tokyonight)
 
 ---
 
